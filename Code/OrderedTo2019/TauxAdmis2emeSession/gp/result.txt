@@ -1,0 +1,5 @@
+EASEA LOG [INFO]: Seed: 1655476364
+EASEA LOG [INFO]: Best fitness: 0.0226699
+EASEA LOG [INFO]: Elapsed time: 324.239
+(((0.351278)-((sin(((x)*(cos(0.281443)))/((0.920842)*(sqrt(0.372602)))))/(cos((x)/(sqrt((0.157895)/(x)))))))+((((cos((sqrt(x))+(sin(x))))/((sqrt(sqrt(x)))/(sin((x)+(x)))))+(((cos((x)+(x)))/(sqrt((0.224046)*(x))))+(sqrt(((0.0238409)+(x))-(sqrt(0.737759))))))-((sin(((sqrt(x))+((0.00222787)+(x)))/(sin(0.496134))))*((cos(((0.00222787)+(x))+(0.064822)))/(cos(sin(cos(0.555133))))))))
+
